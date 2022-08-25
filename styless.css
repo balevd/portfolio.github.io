@@ -1,0 +1,109 @@
+
+
+body {
+    background-color: #D9F8C4;
+    margin: 0;
+    font-family: 'Yusei Magic', Arial, sans-serif;
+}
+
+hr {
+    border-style: dotted;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-color: grey;
+    border-width: 5px;
+    width: 7%;
+}
+
+h1 {
+    color: #E8AA42;
+    font-size: 40px;
+}
+
+h3 {
+    margin-top: 0;
+    color: #F37878;
+    font-size: 35px;
+}
+
+h4 {
+    color: #5BB318;
+    font-size: 35px;
+}
+
+li {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td {
+    text-align: left;
+    padding: 15px;
+}
+
+.intro {
+    background-color: #F9F9C5;
+    height: 500px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.intro-text {
+    position:relative;
+    top:20px;
+    margin-top: 40px;
+}
+
+.intro-para {
+    margin-top: 70px;
+}
+
+.portfolio {
+    text-align: center;
+    background-color: #FAD9A1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.more {
+    font-size: 10px;
+}
+
+.deian {
+    padding: 30px;
+}
+
+.icons {
+    text-align: center;
+    margin: 15px;
+}
+
+
+
+.magic-rabbit {
+    position: absolute;
+    top: 40px;
+    right: 110px;
+}
+
+.magician {
+    position: absolute;
+    top: 350px;
+    left: 130px;
+}
+
+.about {
+    text-align: center;
+    margin: 20px;
+}
+
+.copyright {
+  font-size: 14px;
+  margin-bottom: 0;
+  text-align: center;
+}
